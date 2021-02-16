@@ -12,3 +12,9 @@ random
 datetime
 time
 pandas
+
+# Current Release
+Version 1.0
+
+# Release 2 Possible Enhancements
+api integration to consume game scores to automate winner selection.
